@@ -1,0 +1,23 @@
+.bgContainer {
+  background-color: #ffffff;
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+
+.searchIcon {
+  height: 18px;
+  margin-top: 3px;
+}
+
+.searchIconContainer {
+  display: flex;
+  text-align: center;
+  margin-left: 80px;
+}
+
+.unorderedListContainer {
+  list-style-type: none;
+}
